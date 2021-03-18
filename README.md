@@ -19,9 +19,6 @@ The above command will show you all things deployed. Check out the image. We see
 
 ![image](https://user-images.githubusercontent.com/45314106/111628312-6026fa00-87f0-11eb-89f3-573de0136958.png)
 
-
-NAME                   TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)        AGE
-service/nginx          NodePort    10.110.5.130   <none>        80:31427/TCP   4m19s
   
 This tells us the port 31427 on which the nginx is listening now: Now open: http://localhost:31427/
 
